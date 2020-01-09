@@ -1,3 +1,5 @@
 # angular-wn8ids
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-wn8ids)
+Basic store app with angular
+
+-[App Link ⚡️](https://angular-wn8ids.stackblitz.io/)
